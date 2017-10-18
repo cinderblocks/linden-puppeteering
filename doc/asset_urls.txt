@@ -1,0 +1,5 @@
+SLASSET_LIBS_LINUXI386=http://automated-builds-secondlife-com.s3.amazonaws.com/trunk/slviewer-linux-libs-trunk-1.24.4.137623.tar.gz
+SLASSET_ART=http://automated-builds-secondlife-com.s3.amazonaws.com/trunk/slviewer-artwork-trunk-1.24.4.137623.zip
+SLASSET_MD5=http://automated-builds-secondlife-com.s3.amazonaws.com/trunk/md5sums-trunk-1.24.4.137623.txt
+SLASSET_LIBS_DARWIN=http://automated-builds-secondlife-com.s3.amazonaws.com/trunk/slviewer-darwin-libs-trunk-1.24.4.137623.tar.gz
+SLASSET_LIBS_WIN32=http://automated-builds-secondlife-com.s3.amazonaws.com/trunk/slviewer-win32-libs-trunk-1.24.4.137623.zip
